@@ -1,0 +1,190 @@
+{
+    "red": {
+        "homeEntranceIndex": 51,
+        "homeStartIndex": 52,
+        "startIndex": 1,
+        "pieces": [
+            {
+                "id": "red1",
+                "x": 144.35,
+                "y": 96.25,
+                "hx": 144.35,
+                "hy": 96.25,
+                "index": -1,
+                "state": "Inactive"
+            },
+            {
+                "id": "red2",
+                "x": 144.35,
+                "y": 192.45,
+                "hx": 144.35,
+                "hy": 192.45,
+                "index": -1,
+                "state": "Inactive"
+            },
+            {
+                "id": "red3",
+                "x": 96.25,
+                "y": 144.35,
+                "hx": 96.25,
+                "hy": 144.35,
+                "index": -1,
+                "state": "Inactive"
+            },
+            {
+                "id": "red4",
+                "x": 192.45,
+                "y": 144.35,
+                "hx": 192.45,
+                "hy": 144.35,
+                "index": -1,
+                "state": "Inactive"
+            }
+        ]
+
+    },
+    "blue": {
+        "homeEntranceIndex": 12,
+        "homeStartIndex": 58,
+        "startIndex": 14,
+        "pieces": [
+            {
+                "id": "blue1",
+                "x": 529.15,
+                "y": 144.35,
+                "hx": 529.15,
+                "hy": 144.35,
+                "index": -1,
+                "state": "Inactive"
+            },
+            {
+                "id": "blue2",
+                "x": 625.35,
+                "y": 144.35,
+                "hx": 625.35,
+                "hy": 144.35,
+                "index": -1,
+                "state": "Inactive"
+            },
+            {
+                "id": "blue3",
+                "x": 577.25,
+                "y": 192.45,
+                "hx": 577.25,
+                "hy": 192.45,
+                "index": -1,
+                "state": "Inactive"
+            },
+            {
+                "id": "blue4",
+                "x": 577.25,
+                "y": 96.25,
+                "hx": 577.25,
+                "hy": 96.25,
+                "index": -1,
+                "state": "Inactive"
+            }
+        ]
+
+    },
+    "yellow": {
+        "homeEntranceIndex": 25,
+        "homeStartIndex": 64,
+        "startIndex": 27,
+        "pieces": [
+            {
+                "id": "yellow1",
+                "x": 577.25,
+                "y": 529.15,
+                "hx": 577.25,
+                "hy": 529.15,
+                "index": -1,
+                "state": "Inactive"
+            },
+            {
+                "id": "yellow2",
+                "x": 577.25,
+                "y": 625.35,
+                "hx": 577.25,
+                "hy": 625.35,
+                "index": -1,
+                "state": "Inactive"
+            },
+            {
+                "id": "yellow3",
+                "x": 529.15,
+                "y": 577.25,
+                "hx": 529.15,
+                "hy": 577.25,
+                "index": -1,
+                "state": "Inactive"
+            },
+            {
+                "id": "yellow4",
+                "x": 625.35,
+                "y": 577.25,
+                "hx": 625.35,
+                "hy": 577.25,
+                "index": -1,
+                "state": "Inactive"
+            }
+        ]
+
+    },
+    "green": {
+        "homeEntranceIndex": 38,
+        "homeStartIndex": 70,
+        "startIndex": 40,
+        "pieces": [
+            {
+                "id": "green1",
+                "x": 192.45,
+                "y": 577.25,
+                "hx": 192.45,
+                "hy": 577.25,
+                "index": -1,
+                "state": "Inactive"
+            },
+            {
+                "id": "green2",
+                "x": 96.25,
+                "y": 577.25,
+                "hx": 96.25,
+                "hy": 577.25,
+                "index": -1,
+                "state": "Inactive"
+            },
+            {
+                "id": "green3",
+                "x": 144.35,
+                "y": 529.15,
+                "hx": 144.35,
+                "hy": 529.15,
+                "index": -1,
+                "state": "Inactive"
+            },
+            {
+                "id": "green4",
+                "x": 144.35,
+                "y": 625.35,
+                "hx": 144.35,
+                "hy": 625.35,
+                "index": -1,
+                "state": "Inactive"
+            }
+        ]
+
+    },
+    "dice": [
+        {
+            "dieId": "die1",
+            "dieValue": 1,
+            "selected": false
+        },
+        {
+            "dieId": "die2",
+            "dieValue": 1,
+            "selected": false
+        }
+    ]
+}
